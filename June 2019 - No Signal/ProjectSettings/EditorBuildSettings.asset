@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 7e2b15abc11cb3d4283702979337d396
+  - enabled: 1
+    path: Assets/Scenes/CentralCrashScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Enemies Attack.unity
+    guid: a8f9b2f9349d5674ba1433481c902a77
+  - enabled: 1
+    path: Assets/Scenes/AlienTown.unity
+    guid: 55c45003ceb328c43989557c048137c5
+  - enabled: 1
+    path: Assets/Scenes/CaveRuins.unity
+    guid: b6da8661747642048aa8e5d93e76c7ed
+  - enabled: 1
+    path: Assets/Scenes/FrequencyWaveMiniGame.unity
+    guid: cd8f7165023861144ada79bfa1077be5
+  - enabled: 1
+    path: Assets/Scenes/GrassLands.unity
+    guid: 98f94ce1efa8d7a4fa2198fc22982345
+  - enabled: 1
+    path: Assets/Scenes/PressurePlateMiniGame.unity
+    guid: 13b2a4a2d6aa0d2439e2ba460c672e1d
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: f6d493802ed000a4a929c991e4b9d7dd
+  - enabled: 1
+    path: Assets/Scenes/VanMiniGame.unity
+    guid: d3eda872890138b4ba5d91854b8d9b9a
+  - enabled: 1
+    path: Assets/Scenes/Town.unity
+    guid: 7296b92fd8c28cb41896e36b93e4ed98
+  - enabled: 1
+    path: Assets/Scenes/TutorialEnd.unity
+    guid: 15610a2c262461d419afdf137c95c369
+  m_configObjects: {}
